@@ -1,0 +1,7 @@
+{
+    "success_create": "Created Successfully.",
+    "success_update": "Updated Successfully.",
+    "success_delete": "Deleted Successfully.",
+    "success_active": "Active Successfully.",
+    "success_un_active": "Un Active Successfully."
+}
